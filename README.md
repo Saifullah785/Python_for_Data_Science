@@ -23,14 +23,24 @@ This repository includes study materials and hands-on projects covering:
 ## 📂 Repository Structure
 
 python-for-data-science/
+
 │
 ├── numpy/
+
 ├── pandas/
+
 ├── matplotlib/
+
 ├── seaborn/
+
 ├── scikit-learn/
+
 ├── statsmodels/
+
 ├── scipy/
+
 ├── sympy/
+
 ├── projects/
+
 └── README.md
